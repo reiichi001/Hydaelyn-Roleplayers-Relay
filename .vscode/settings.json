@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Hydaelyn Roleplayers Relay}/data/enmap.sqlite",
+            "name": "Relay Settings"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
